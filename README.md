@@ -1,6 +1,6 @@
 # Flask-Request-Log
 
-An example code for my post in Virgool => [ذخیر‌سازی گزارش درخواست‌ها در فلسک](http://google.com)
+An example code for my post in Virgool => [ذخیر‌سازی گزارش درخواست‌ها در فلسک](http://vrgl.ir/c38uI)
 
 # How to run this example:
   1. `git clone https://github.com/DarkSuniuM/Flask-Request-Log.git .`
